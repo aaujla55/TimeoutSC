@@ -1,0 +1,16 @@
+{
+    "LocalDependencies": [
+        "db/procedures.lua",
+        "db/procedures_example.lua"
+    ],
+    "LuaDependencies": [
+        "demo.lookups.db.procedures"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1531495970",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
